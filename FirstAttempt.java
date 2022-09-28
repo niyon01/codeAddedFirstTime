@@ -6,7 +6,7 @@ public class FirstAttempt {
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println("Enter Your Name : ");
+        System.out.println("Print your Name here : ");
         String name = scanner.nextLine();
         System.out.println("Enter Your Id :");
         int id = scanner.nextInt();
@@ -17,7 +17,7 @@ public class FirstAttempt {
 
     private static void findEachNumber(int id) {
 
-        String name = null;
+        String name = "";
         while(id>0) {
             int temp = id;
             temp = temp % 10;
