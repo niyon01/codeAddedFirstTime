@@ -10,5 +10,5 @@ It's nothing but sum of previous two numbers.
 
 ## FlowChart
 
-![image](img/nthFiboSeries.png)
+![image](img/Untitled-2022-09-28-1822.png)
 
