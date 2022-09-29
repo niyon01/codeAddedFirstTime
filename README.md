@@ -14,7 +14,7 @@ It's nothing but sum of previous two numbers.
 
 ## Sudo Code 
 ![image](img/isArmstrong.svg)    ![image](img/isPrime.png)
-![image](img/isPalindrome.png)
+![image](img/isPalindrome.svg)
 
 
 
