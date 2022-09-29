@@ -29,9 +29,9 @@ public class Fibonacci {
 
         int count =2;
         while (count<=number) {
-            int temp = i;
-            i = i + p;
-            p = temp;
+            int temp = p;
+            p = i ;
+            i = temp + i;
             System.out.println(i);
             count = count + 1;
 
