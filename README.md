@@ -12,3 +12,9 @@ It's nothing but sum of previous two numbers.
 
 ![image](img/Untitled-2022-09-28-1822.png)
 
+## Sudo Code 
+![image](img/isArmstrong.svg)    ![image](img/isPrime.png)
+![image](img/isPalindrome.png)
+
+
+
