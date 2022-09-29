@@ -15,6 +15,7 @@ public class FiboSeries {
         }
         System.out.println(0);
         System.out.println(1);
+        int ans =1;
         if (inputNumber < 2) return;
         int c = 2;
         while (c < inputNumber) {
@@ -22,8 +23,9 @@ public class FiboSeries {
             p = n; // number of 1++
             n += temp; // number of 2++
             System.out.println(n);
+            ans+=n;
             c++;
         }
-
+        System.out.println(ans);
     }
 }
